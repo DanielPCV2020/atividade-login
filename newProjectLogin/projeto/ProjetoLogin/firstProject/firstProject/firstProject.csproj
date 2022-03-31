@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="37f2791c41420acece8498e7f01938f6.png" />
+    <None Remove="70f936294a1f0f3949a9205df9340d5e.png" />
+    <None Remove="bd886d7ccc6f8dd8db17e841233c9656.jpg" />
+    <None Remove="bfeaa2710fc14f66ecda8f7cbd6cdfd8-1.png" />
+    <None Remove="bfeaa2710fc14f66ecda8f7cbd6cdfd8-12.png" />
+    <None Remove="google.jpg" />
+    <None Remove="icons8-comprimir-64.png" />
+    <None Remove="icons8-fechar-janela-48.png" />
+    <None Remove="icons8-login-64.png" />
+    <None Remove="icons8-minimizar-janela-48.png" />
+    <None Remove="icons8-minimizar-janela-50.png" />
+    <None Remove="icons8-minimizar-janela-64.png" />
+    <None Remove="RegrasdeNegocios\1fbe44e7b122b606b3e2cfbee534d3f6.jpg" />
+    <None Remove="RegrasdeNegocios\ferramentas-de-saude-da-pele-no-fundo-branco_23-2148116084.webp" />
+    <None Remove="RegrasdeNegocios\icons8-calculator-64.png" />
+    <None Remove="RegrasdeNegocios\images.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="37f2791c41420acece8498e7f01938f6.png" />
+    <Resource Include="70f936294a1f0f3949a9205df9340d5e.png" />
+    <Resource Include="bd886d7ccc6f8dd8db17e841233c9656.jpg" />
+    <Resource Include="bfeaa2710fc14f66ecda8f7cbd6cdfd8-1.png" />
+    <Resource Include="bfeaa2710fc14f66ecda8f7cbd6cdfd8-12.png" />
+    <Resource Include="google.jpg" />
+    <Resource Include="icons8-comprimir-64.png" />
+    <Resource Include="icons8-fechar-janela-48.png" />
+    <Resource Include="icons8-login-64.png" />
+    <Resource Include="icons8-minimizar-janela-48.png" />
+    <Resource Include="icons8-minimizar-janela-50.png" />
+    <Resource Include="icons8-minimizar-janela-64.png" />
+    <Resource Include="RegrasdeNegocios\1fbe44e7b122b606b3e2cfbee534d3f6.jpg" />
+    <Resource Include="RegrasdeNegocios\ferramentas-de-saude-da-pele-no-fundo-branco_23-2148116084.webp" />
+    <Resource Include="RegrasdeNegocios\icons8-calculator-64.png" />
+    <Resource Include="RegrasdeNegocios\images.jpg" />
+  </ItemGroup>
+
+</Project>
